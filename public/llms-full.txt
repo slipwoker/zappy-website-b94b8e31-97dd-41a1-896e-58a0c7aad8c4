@@ -412,46 +412,6 @@ Student player
 
 
 
-## Small build, strong loop.
-
-
-
-1
-
-key control
-
-
-
-500×500
-
-canvas feel
-
-
-
-0
-
-menus before play
-
-
-
-↑
-
-Speed increases every dodge
-
-
-
-
-
-Canvas action, simple gravity, clear collision, instant restart.
-
-
-
-
-
-
-
-
-
 
 
 
