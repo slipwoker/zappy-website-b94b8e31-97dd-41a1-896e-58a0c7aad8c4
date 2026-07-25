@@ -1,0 +1,1623 @@
+# jump game
+
+A simple HTML5 canvas-based endless runner game where a blue player character jumps over incoming red monsters using the spacebar. The game features a score counter displayed in Arabic, increasing difficulty as the monster speeds up with each successful dodge, and a game-over alert with score display. The overall vibe is minimal and arcade-style with a sky-blue background.
+
+Source: https://jump-game-b94b8e31.zappy5.app
+
+---
+
+## Jump Over Monsters &amp; Score High — jump game
+
+URL: https://jump-game-b94b8e31.zappy5.app
+Description: Play the ultimate endless runner right in your browser! Hit spacebar to dodge speeding red monsters as you chase a new high score in Arabic numerals. Start jumping now!
+
+Jump Over Monsters & Score High — jump game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Features
+- Benefits
+- Showcase
+- Testimonials
+- Stats
+- Contact
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+# Jump, dodge, score, repeat.
+
+
+### A tiny HTML5 runner with a blue hero, red monsters, and a score counter with Arabic game energy.
+
+
+jump game is a simple canvas arcade moment built for casual players, school breaks, and mobile-game fans who want instant play without heavy menus.
+
+
+Start the jump
+See how it works
+
+
+
+
+
+
+
+
+
+
+
+
+
+Built around instant replay energy.
+
+
+## Simple to play, satisfying to master.
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Press space to jump
+
+
+The blue player character responds instantly to a single tap. One control, clean arcade action — no complicated combos needed.
+
+
+
+
+
+
+
+
+
+
+
+
+### Dodge the red monster
+
+
+Incoming monsters race toward you from the right, creating quick arcade tension. Time your jumps perfectly to slip past each threat.
+
+
+
+
+
+
+
+
+
+
+
+
+### Difficulty grows naturally
+
+
+Every successful dodge increases the monster's speed. The challenge escalates smoothly, keeping you locked in run after run.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+النقاط: 7
+
+
+
+A tiny peek at the jump jump game in action — blue player, red monster, and that satisfying score tick.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Made for quick breaks and repeat runs.
+
+
+The game loop is intentionally tiny: jump, survive, score, reset, and try again.
+
+
+
+
+
+
+
+
+### Loads fast in the browser
+
+
+No downloads, no waiting. The game runs instantly on any modern browser, making it perfect for quick classroom sessions.
+
+
+
+
+
+
+
+
+
+### Clear canvas-based action
+
+
+Minimal HTML5 canvas visuals keep the focus on timing and reflexes, just like classic arcade cabinets.
+
+
+
+
+
+
+
+
+
+### Friendly for school students
+
+
+Simple controls and a clean interface make it accessible for all ages, from elementary to high school.
+
+
+
+
+
+
+
+
+
+### Minimal arcade feel without distraction
+
+
+No ads, no pop-ups, no complex menus—just pure gameplay that respects your time and attention.
+
+
+
+
+Try a round after class →
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## A tiny world with clear rules.
+
+
+Every visual element is easy to understand: blue means player, red means danger, and the score makes progress visible.
+
+
+
+
+
+
+
+
+
+
+
+النقاط
+12
+
+
+
+
+
+Sky-blue canvas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump timing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monster speed-up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Loved by quick-play fans.
+
+
+The appeal is immediate: no setup, no long tutorial, just one clean challenge.
+
+
+
+
+
+
+
+
+
+
+"It feels like the kind of game you try once and then keep restarting to beat your score."
+
+
+
+Casual gamer
+
+
+
+
+
+
+
+
+
+
+"The one-button jump makes it easy on a phone keyboard or school laptop."
+
+
+
+Mobile game fan
+
+
+
+
+
+
+
+
+
+
+"The red monster getting faster makes every point feel earned."
+
+
+
+Student player
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Small build, strong loop.
+
+
+
+1
+
+key control
+
+
+
+500×500
+
+canvas feel
+
+
+
+0
+
+menus before play
+
+
+
+↑
+
+Speed increases every dodge
+
+
+
+
+
+Canvas action, simple gravity, clear collision, instant restart.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Ready to launch your next tiny arcade moment?
+
+
+Use this page to introduce jump game, invite players to try it, or collect interest from casual gamers and students.
+
+
+- Simple one-control experience
+
+- Arabic score display ready for localization
+
+- Minimal canvas-based game identity
+
+
+
+
+
+
+Name
+
+
+
+Email
+
+
+
+Phone
+
+
+
+Message
+
+
+
+
+
+I have read and agree to the  Terms & Conditions  and  Privacy Policy
+
+
+Send me the game details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A cozy arcade-club runner. Jump, dodge, and chase high scores in a warm browser playground.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Features
+
+- Benefits
+
+- Showcase
+
+- Testimonials
+
+- Stats
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 jump game. All rights reserved.
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+
+Generated by Zappy
+
+---
+
+## Privacy Policy
+
+URL: https://jump-game-b94b8e31.zappy5.app/privacy
+Description: Our privacy policy - how we collect, use, and protect your information
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Features
+- Benefits
+- Showcase
+- Testimonials
+- Stats
+- Contact
+
+
+
+Contact
+
+
+
+
+
+
+
+
+# Privacy Policy
+
+
+
+Last Updated:  7/25/2026
+
+
+
+jump game ("Company", "we", "our") is committed to protecting your privacy. This privacy policy explains how we collect, use and protect your information when you use our website [business_website] ("Service").
+
+
+## 1. Information Collection
+
+
+We may collect the following types of information:
+
+
+- Personal Information: Name, email address, phone number and address
+
+- Technical Information: IP address, browser type, operating system and website usage data
+
+- Cookies: Information stored on your computer to improve user experience
+
+
+
+
+## 2. Use of Information
+
+
+We use the collected information for the following purposes:
+
+
+- Providing requested services
+
+- Improving service and user experience
+
+- Contacting you regarding our services
+
+- Compliance with legal requirements
+
+
+
+
+## 3. Information Sharing
+
+
+We do not sell, rent or share your personal information with third parties, except in the following cases:
+
+
+- With your explicit consent
+
+- When required by law
+
+- To protect our rights or user safety
+
+- With service providers who assist in operating the service (under confidentiality agreements)
+
+
+
+
+## 4. User Rights
+
+
+In accordance with Israeli Privacy Protection Law 1981, you have the following rights:
+
+
+- Right to access personal information stored about you
+
+- Right to correct inaccurate or incomplete information
+
+- Right to delete personal information in certain circumstances
+
+- Right to object to information processing for marketing purposes
+
+- Right to file a complaint with the Data Protection Authority
+
+
+
+
+## 5. Cookies
+
+
+Our website uses cookies to improve user experience. You can manage cookies through your browser settings. Disabling cookies may affect website functionality.
+
+
+## 6. Information Security
+
+
+We implement reasonable security measures to protect your information, including encryption, firewalls and restricted access control. However, no transmission or storage method is 100% secure.
+
+
+## 7. Policy Changes
+
+
+We may update this privacy policy from time to time. Material changes will be posted on the website with 30 days advance notice.
+
+
+
+## 8. Contact Information
+
+
+For questions or requests regarding this privacy policy, please contact us:
+
+
+- Company: jump game
+
+- Email: [business_email]
+
+- Phone: [business_phone]
+
+- Address: [business_address]
+
+
+
+Data Protection Authority: For complaints, you may contact the Data Protection Authority at the Ministry of Justice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A cozy arcade-club runner. Jump, dodge, and chase high scores in a warm browser playground.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Features
+
+- Benefits
+
+- Showcase
+
+- Testimonials
+
+- Stats
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 jump game. All rights reserved.
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+
+Generated by Zappy
+
+---
+
+## Accessibility Statement
+
+URL: https://jump-game-b94b8e31.zappy5.app/accessibility
+Description: Our accessibility statement - our commitment to digital accessibility
+
+Accessibility Statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Features
+- Benefits
+- Showcase
+- Testimonials
+- Stats
+- Contact
+
+
+
+Contact
+
+
+
+
+
+
+
+
+# Accessibility Statement
+
+
+
+Last updated:  July 25, 2026
+
+
+
+jump game is committed to making our services accessible to all users. We strive to implement the Israeli Standard (TI 5568) based on WCAG 2.1 Level AA guidelines.
+
+
+Accessibility Level: AA (Israeli Standard TI 5568)
+
+
+
+## 1. Accessibility Policy
+
+
+We believe in equal rights and the right of every person to receive information and services independently and equally. This website was designed and built with special emphasis on accessibility for people with disabilities.
+
+
+## 2. Accessibility Arrangements on the Site
+
+
+- Keyboard navigation support
+
+- Screen reader compatibility
+
+- Appropriate color contrast
+
+- Flexible and scalable font sizes
+
+- Descriptive image alt text
+
+- Hierarchical heading structure
+
+- Clear and descriptive links
+
+- Support for 200% zoom without content loss
+
+
+
+
+
+### WCAG 2.1 Compliance
+
+
+The website complies with WCAG 2.1 Level AA, which includes:
+
+
+- Perceivable: Information is presented in ways users can perceive
+
+- Operable: Interface components are operable
+
+- Understandable: Information and user interface are understandable
+
+- Robust: Content can be interpreted by a variety of technologies
+
+
+
+
+
+## 3. Supported Assistive Technologies
+
+
+- NVDA (Windows)
+
+- JAWS (Windows)
+
+- VoiceOver (Mac/iOS)
+
+- TalkBack (Android)
+
+- Dragon NaturallySpeaking
+
+- Switch navigation
+
+
+
+
+## 4. Accessibility Testing
+
+
+The website has been tested using:
+
+
+- Automated accessibility testing tools
+
+- Manual testing with screen readers
+
+- Keyboard-only navigation
+
+- Color contrast verification
+
+- Testing with users with disabilities
+
+
+
+
+## 5. Continuous Improvements
+
+
+We are continuously working to improve the accessibility of our website and update it according to technological developments and user feedback.
+
+
+
+## 6. Contact and Feedback
+
+
+If you encounter an accessibility issue on the site or need assistance, please contact us:
+
+
+- Company: jump game
+
+- Email: [business_email]
+
+- Phone: [business_phone]
+
+
+
+Response time: We respond to accessibility inquiries within 3 business days and work to resolve issues within 10 business days.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A cozy arcade-club runner. Jump, dodge, and chase high scores in a warm browser playground.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Features
+
+- Benefits
+
+- Showcase
+
+- Testimonials
+
+- Stats
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 jump game. All rights reserved.
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+
+Generated by Zappy
+
+---
+
+## Terms & Conditions
+
+URL: https://jump-game-b94b8e31.zappy5.app/terms
+Description: Terms of service - user rights and obligations
+
+Terms & Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Features
+- Benefits
+- Showcase
+- Testimonials
+- Stats
+- Contact
+
+
+
+Contact
+
+
+
+
+
+
+
+
+# Terms of Use
+
+
+
+Last updated:  July 25, 2026
+
+
+
+Use of this site constitutes agreement to the terms outlined below. Please read carefully before use.
+
+
+
+## 1. Definitions
+
+
+- "Company" - jump game
+
+- "User" - Anyone who browses or uses the site
+
+- "Services" - Gaming provided through the site
+
+
+
+
+## 2. Description of Services
+
+
+jump game provides Gaming through the site. The services are subject to the terms detailed in this document and may change from time to time.
+
+
+## 3. Terms of Use
+
+
+Use of the site is conditional on compliance with the following terms:
+
+
+- Use of the site for lawful purposes only
+
+- No interference with site operations or other users
+
+- No uploading of offensive, illegal, or harmful content
+
+- Respect for copyright and intellectual property rights
+
+- No actions that may compromise site security
+
+
+
+
+## 4. User Obligations
+
+
+- Providing accurate and truthful information during registration or ordering
+
+- Maintaining confidentiality of account access details
+
+- Immediate notification of any unauthorized account use
+
+- Updating personal information as needed
+
+
+
+
+## 5. Payment and Refund Policy
+
+
+If services include payment:
+
+
+- Payments are processed through secure and encrypted systems
+
+- Prices include applicable taxes as required by law
+
+- Right to cancel will be in accordance with consumer protection laws
+
+- Refunds will be processed within 14 business days of cancellation approval
+
+
+
+
+## 6. Limitation of Liability
+
+
+Services are provided "as is" without warranty of any kind. The Company will not be liable for indirect, consequential, or special damages arising from use of the site, except where required by law.
+
+
+## 7. Copyright and Intellectual Property
+
+
+All content on the site, including text, images, design, and code, is protected by copyright owned by jump game. Reproduction, distribution, or commercial use of content is prohibited without written permission.
+
+
+## 8. Privacy
+
+
+Collection and use of personal information is subject to our Privacy Policy. Use of the site constitutes agreement to the Privacy Policy as detailed separately.
+
+
+## 9. Changes to Terms of Use
+
+
+The Company may change these terms of use at any time. Material changes will be posted on the site with 30 days advance notice. Continued use after changes constitutes agreement to the new terms.
+
+
+## 10. Service Termination
+
+
+The Company may suspend or limit service at any time, including in cases of terms of use violations. In case of service termination, relevant provisions will remain in effect.
+
+
+## 11. Governing Law and Dispute Resolution
+
+
+These terms of use are governed by applicable laws. Any disputes will be resolved in accordance with local jurisdiction, with preference given to arbitration or mediation where possible.
+
+
+## 12. General Provisions
+
+
+- If any portion of the terms is found invalid, remaining terms will remain in effect
+
+- Non-enforcement of a right will not be considered a waiver
+
+- These terms of use constitute the entire agreement between the parties
+
+
+
+
+
+## 13. Contact Information
+
+
+For questions or clarifications regarding the terms of use:
+
+
+- Company: jump game
+
+- Email: [business_email]
+
+- Phone: [business_phone]
+
+- Address: [business_address]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A cozy arcade-club runner. Jump, dodge, and chase high scores in a warm browser playground.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Features
+
+- Benefits
+
+- Showcase
+
+- Testimonials
+
+- Stats
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 jump game. All rights reserved.
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+
+Generated by Zappy
+
+---
+
+## Thank You | jump game
+
+URL: https://jump-game-b94b8e31.zappy5.app/thank-you
+Description: jump game - Thank You | jump game
+
+Thank You | jump game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Features
+- Benefits
+- Showcase
+- Testimonials
+- Stats
+- Contact
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+# Thank You
+
+
+### Your message has been received.
+
+
+
+Your ticket number
+
+---
+
+
+We have received your message and will get back to you as soon as possible.
+
+
+Back to Home
+Contact Us Again
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A cozy arcade-club runner. Jump, dodge, and chase high scores in a warm browser playground.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Features
+
+- Benefits
+
+- Showcase
+
+- Testimonials
+
+- Stats
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 jump game. All rights reserved.
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+
+Generated by Zappy
+
+---
+

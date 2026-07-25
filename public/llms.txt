@@ -1,0 +1,70 @@
+# jump game — Generative Engine Optimization Map
+
+> A simple HTML5 canvas-based endless runner game where a blue player character jumps over incoming red monsters using the spacebar. The game features a score counter displayed in Arabic, increasing difficulty as the monster speeds up with each successful dodge, and a game-over alert with score display. The overall vibe is minimal and arcade-style with a sky-blue background.
+
+---
+
+## Pages
+
+### Home
+https://jump-game-b94b8e31.zappy5.app
+Play the ultimate endless runner right in your browser! Hit spacebar to dodge speeding red monsters as you chase a new high score in Arabic numerals. Start jumping now!
+
+### Thank You | jump game
+https://jump-game-b94b8e31.zappy5.app/thank-you
+jump game - Thank You | jump game
+
+## Legal & Policy
+
+### Privacy Policy
+https://jump-game-b94b8e31.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://jump-game-b94b8e31.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://jump-game-b94b8e31.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://jump-game-b94b8e31.zappy5.app
+- Endpoint: https://jump-game-b94b8e31.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About jump game
+A simple HTML5 canvas-based endless runner game where a blue player character jumps over incoming red monsters using the spacebar. The game features a score counter displayed in Arabic, increasing difficulty as the monster speeds up with each successful dodge, and a game-over alert with score display. The overall vibe is minimal and arcade-style with a sky-blue background.
+
+## Target Audience
+- Casual Gamers
+- Mobile Game Fans
+- School Students
+
+## Industry
+Gaming
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://jump-game-b94b8e31.zappy5.app/sitemap.xml
+- Robots: https://jump-game-b94b8e31.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://jump-game-b94b8e31.zappy5.app/llms-full.txt
