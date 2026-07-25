@@ -61,11 +61,9 @@ Skip to main content
 - Showcase
 - Testimonials
 - Stats
+
+
 - Contact
-
-
-
-Contact
 
 
 
@@ -636,11 +634,9 @@ Privacy Policy
 - Showcase
 - Testimonials
 - Stats
+
+
 - Contact
-
-
-
-Contact
 
 
 
@@ -901,11 +897,9 @@ Accessibility Statement
 - Showcase
 - Testimonials
 - Stats
+
+
 - Contact
-
-
-
-Contact
 
 
 
@@ -1172,11 +1166,9 @@ Terms & Conditions
 - Showcase
 - Testimonials
 - Stats
+
+
 - Contact
-
-
-
-Contact
 
 
 
@@ -1491,11 +1483,9 @@ Skip to main content
 - Showcase
 - Testimonials
 - Stats
+
+
 - Contact
-
-
-
-Contact
 
 
 
